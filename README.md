@@ -1,7 +1,10 @@
 # Movie Review Sentiment Analysis Model API
 This model predicts the sentiment of a movie review as "Positive" or "Negetive"
 
-## Example of RequestBody : {"review" : "this movie was great"}
+## Example of RequestBody :
+```python
+{"review" : "this movie was great"}
+```
 
 ## To run Locally :
 * pip install -r requirements.txt
